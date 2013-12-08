@@ -1,7 +1,7 @@
 usui-paren.vim
 ==============
 
-This plugin makes the color of a parenthesis thin.
+This plugin makes the color of parentheses thin.
 
 ### Dark Color Scheme
 

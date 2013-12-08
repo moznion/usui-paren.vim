@@ -11,16 +11,19 @@ This plugin makes the color of parentheses thin.
 
 ![https://dl.dropboxusercontent.com/u/14832699/usui-paren-vim/bright_scheme.png](https://dl.dropboxusercontent.com/u/14832699/usui-paren-vim/bright_scheme.png)
 
-Methods
--------
+Commands
+--------
 
-- UsuiParenActivate()
+- :UsuiParenActivate
+
     Enable highlighting
 
-- UsuiParenClear()
+- :UsuiParenClear
+
     Disable highlighting
 
-- UsuiParenToggle()
+- :UsuiParenToggle
+
     Toggle highlighting
 
 Inspired

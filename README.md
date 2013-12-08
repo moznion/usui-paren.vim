@@ -23,6 +23,13 @@ Methods
 - UsuiParenToggle()
     Toggle highlighting
 
+Inspired
+--------
+
+![usui-paren.el](https://github.com/tokuhirom/dotfiles/blob/master/.emacs.d/elisp/usui-paren.el)
+
+This plugin is ported mostly from `usui-paren.el`.
+
 Licence
 -------
 

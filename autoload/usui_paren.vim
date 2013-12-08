@@ -16,7 +16,7 @@ func! usui_paren#activate()
     " For bright color scheme
     highlight default UsuiParen   ctermfg=81  guifg=#88aaff
     highlight default UsuiBrace   ctermfg=217 guifg=#ffaa88
-    highlight default UsuiBracket ctermfg=185 guifg=#aaaa00
+    highlight default UsuiBracket ctermfg=3   guifg=#aaaa00
   endif
 
   let s:active = 1

@@ -38,7 +38,7 @@ endfunc
 " Toggle highlighting status between enabled and disabled
 func! usui_paren#toggle()
   let l:toggle_func = exists('s:active') && s:active ? 'clear' : 'activate'
-  call call('usui_paren#'.l:toggle_func, [])
+  call('usui_paren#'.l:toggle_func, [])
 endfunc
 
 " Load definitions of parens
